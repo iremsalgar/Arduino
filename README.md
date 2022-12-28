@@ -23,3 +23,5 @@ Each number is displayed by turning on the appropriate LEDs and turning off the 
 
 Overall, this code will cause the 7-segment display to cycle through the numbers 0 through 9 repeatedly, with a 1-second delay between each number.
 
+![WhatsApp Image 2022-12-28 at 21 01 08](https://user-images.githubusercontent.com/74204825/209860066-4a2e06e7-f95e-4534-90b1-eda22b74018e.jpeg)
+
