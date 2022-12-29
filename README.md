@@ -25,3 +25,24 @@ Overall, this code will cause the 7-segment display to cycle through the numbers
 
 ![WhatsApp Image 2022-12-28 at 21 01 08](https://user-images.githubusercontent.com/74204825/209860066-4a2e06e7-f95e-4534-90b1-eda22b74018e.jpeg)
 
+# Led yakma kapama
+
+void setup() {
+  pinMode(3, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(3, HIGH);
+  delay(500); 
+  digitalWrite(3, LOW);
+  delay(500); 
+}
+
+3. pine ve gnd ile v5 e bağlantıları gerçekleştirdim. Ardından direnç ve ledleri yerleştirdim.
+yarım saniye araryla led yanıp sönmekte.
+
+
+![WhatsApp Image 2022-12-30 at 00 16 39](https://user-images.githubusercontent.com/74204825/210012424-7e24787e-31e9-46cb-9d14-0af8a36a96ec.jpeg)
+
+
+
